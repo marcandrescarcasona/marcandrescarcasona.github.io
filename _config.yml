@@ -15,7 +15,12 @@ plugins:
 author:
   name   : "Marc Andrés Carcasona"
   avatar : "/assets/images/IMG_7073.JPG"
-  bio    : "Astrophysicist | Gravitational Waves | PBHs | Machine Learning"
+  bio    : "Postdoc at IFAE"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 nav:
   - title: "About"
