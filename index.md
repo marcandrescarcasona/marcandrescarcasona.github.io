@@ -1,9 +1,7 @@
 ---
 layout: home
-author_profile: true
 title: "Welcome"
+author_profile: true
 ---
 
-Hi, I’m **Marc Andrés Carcasona**, an astrophysicist working on gravitational waves and primordial black holes.
-
-This is my academic site built with Minimal Mistakes.
+Hello — site under construction.

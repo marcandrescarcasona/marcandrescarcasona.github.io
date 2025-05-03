@@ -1,17 +1,9 @@
 title: "Marc Andrés Carcasona"
 description: "Astrophysicist | Gravitational Waves | Primordial Black Holes"
+baseurl: ""               # keep empty for a user site
 url: "https://marcandrescarcasona.github.io"
-baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
-
-include:
-  - _pages
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
 
 plugins:
   - jekyll-remote-theme
@@ -20,20 +12,15 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
+# --- the two lines that make the difference ---
+include:                   # files Jekyll must render even though they’re in root
+  - about.md
+
+navigation:                # (NOT “nav:”)
+  - title: "About"
+    url:  /about/
+
 author:
   name   : "Marc Andrés Carcasona"
   avatar : "/assets/images/profile.jpg"
   bio    : "Postdoc at IFAE"
-
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
