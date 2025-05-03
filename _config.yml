@@ -2,7 +2,6 @@ title: "Marc Andrés Carcasona"
 description: "Astrophysicist | Gravitational Waves | Primordial Black Holes"
 url: "https://marcandrescarcasona.github.io"
 baseurl: ""
-logo: "/assets/images/IMG_7073.JPG"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
@@ -27,3 +26,10 @@ collections:
 nav:
   - title: "About"
     url: /about/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
