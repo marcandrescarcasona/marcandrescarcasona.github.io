@@ -17,18 +17,6 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : "Postdoc at IFAE"
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-
 nav:
   - title: "About"
     url: /about/
