@@ -16,8 +16,10 @@ plugins:
 include:                   # files Jekyll must render even though they’re in root
   - about.md
 
-navigation:                # (NOT “nav:”)
-  - title: "About"
+navigation:                
+  - title: "Home"
+    url:  /
+  - title: "About Me"
     url:  /about/
 
 author:
