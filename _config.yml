@@ -3,7 +3,17 @@ description: "Astrophysicist | Gravitational Waves | Primordial Black Holes"
 url: "https://marcandrescarcasona.github.io"
 baseurl: ""
 
+
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+ author:
+   name   : "Marc Andrés Carcasona"
+   avatar : "/assets/images/IMG_7073.JPG"
+   bio    : "Astrophysicist | Gravitational Waves | PBHs | Machine Learning"
+
+nav:
+  - title: "About"
+    url: /about/
 
 plugins:
   - jekyll-include-cache
