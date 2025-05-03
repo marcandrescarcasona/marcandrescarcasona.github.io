@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Marc Andrés Carcasona"
+description: "Astrophysicist | Gravitational Waves | Primordial Black Holes"
+baseurl: ""
+url: "https://marcandrescarcasona.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+markdown: kramdown
