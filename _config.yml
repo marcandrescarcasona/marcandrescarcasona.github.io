@@ -16,12 +16,6 @@ plugins:
 include:                   # files Jekyll must render even though they’re in root
   - about.md
 
-navigation:                
-  - title: "Home"
-    url:  /
-  - title: "About Me"
-    url:  /about/
-
 author:
   name   : "Marc Andrés Carcasona"
   avatar : "/assets/images/profile.jpg"
