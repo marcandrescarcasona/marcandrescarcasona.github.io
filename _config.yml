@@ -5,6 +5,14 @@ baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
+include:
+  - _pages
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -19,6 +27,13 @@ author:
 
 nav:
   - title: "Home"
-    url: "/"        
+    url: "/"
   - title: "About"
     url: "/about/"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
