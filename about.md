@@ -6,7 +6,7 @@ layout: single
 classes: wide
 ---
 
-
+{: .text-justify }
 
 I’m a postdoctoral researcher in gravitational wave (GW) astrophysics, currently based at IFAE, in Barcelona. My work is at the intersection of instrumentation and data analysis in GW experiments, being my three main lines of research the understanding and mitigation of scattered light (SL) in GW detectors, exploring the potential existence of primordial black holes (PBHs) and developing new machine learning (ML) tools to analyze the gathered data.
 
