@@ -5,22 +5,12 @@ layout: single
 author_profile: true
 ---
 
-I'm a physicist and postdoctoral researcher at [IFAE](https://www.ifae.es/), where I work on gravitational-wave astrophysics, focusing on both instrumental and data analysis topics.
+I’m a postdoctoral researcher in gravitational wave (GW) astrophysics, currently based at IFAE, in Barcelona. My work is at the intersection of instrumentation and data analysis in GW experiments, being my three main lines of research the understanding and mitigation of scattered light (SL) in GW detectors, exploring the potential existence of primordial black holes (PBHs) and developing new machine learning (ML) tools to analyze the gathered data.
 
-### 🧠 Research Interests
+While my main research area is physics, I also majored in Economics and I obtained a master's degree in financial risk management, so I have been able to teach in two business schools about data science, coding and quantitative finance. This crossover among various disciplines allows me to have a breadth of knowledge across these two very different areas and be involve in teaching, something that I truly love. I believe that meaningful progress often happens at the edge of fields, where different ways of thinking can collide.
 
-- **Gravitational-wave detection** and noise mitigation  
-- **Scattered light modeling** and control for current and next-gen detectors  
-- **Primordial black holes (PBHs)** and their detectability via mergers  
-- **Machine learning applications** in signal classification and anomaly detection  
+I completed my PhD in Physics at UAB and IFAE in 2025. As part of my thesis, I worked on the simulation of SL and the impact of this noise in GW detectors, the development of a new pipeline to search for PBHs using continuous gravitational waves, another one to search for sub-solar mass events in asymmetric binaries using ML tools and making a population analysis of the detected events by the LIGO-Virgo-KAGRA experiments.
 
-### 🛰️ Current Projects
+Beyond research, I enjoy reading (I am a huge fan of Brandon Sanderson), playing the piano, hiking with my dogs, traveling, learning new languages, cooking (or well, eating), but above all, spending time with friends and family, to evade myself from science.
 
-- Development of tools for scattered light modelling (`SCATTER`)  
-- Searches for PBHs in LIGO–Virgo–KAGRA data  
-- Supervised learning for GW signal detection and parameter estimation
-
-### 📍 Background
-
-I completed my PhD in Physics with a focus on gravitational-wave data analysis and early-universe cosmology.  
-My academic work bridges theory, instrumentation, and data science.
+You can learn more about my current projects on the [home](/) page or download my full [CV](/cv/).

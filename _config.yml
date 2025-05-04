@@ -16,6 +16,7 @@ plugins:
 # --- the two lines that make the difference ---
 include:                   # files Jekyll must render even though they’re in root
   - about.md
+  - cv.md
 
 author:
   name   : "Marc Andrés Carcasona"
