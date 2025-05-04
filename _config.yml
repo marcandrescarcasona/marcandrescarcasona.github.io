@@ -13,8 +13,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
-# --- the two lines that make the difference ---
-include:                   # files Jekyll must render even though they’re in root
+include:
   - about.md
   - cv.md
 
