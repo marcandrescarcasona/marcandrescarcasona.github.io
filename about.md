@@ -6,7 +6,7 @@ layout: single
 classes: wide
 ---
 
-<div class="text-justify">
+{: .text-justify }
 
 I’m a postdoctoral researcher in gravitational wave (GW) astrophysics, currently based at IFAE, in Barcelona. My work is at the intersection of instrumentation and data analysis in GW experiments, being my three main lines of research the understanding and mitigation of scattered light (SL) in GW detectors, exploring the potential existence of primordial black holes (PBHs) and developing new machine learning (ML) tools to analyze the gathered data.
 
@@ -17,5 +17,3 @@ I completed my PhD in Physics at UAB and IFAE in 2025. As part of my thesis, I w
 Beyond research, I enjoy reading (I am a huge fan of Brandon Sanderson), playing the piano, hiking with my dogs, traveling, learning new languages, cooking (or well, eating), but above all, spending time with friends and family, to evade myself from science.
 
 You can learn more about my current projects on the [home](/) page or download my full [CV](/cv/).
-
-</div>
