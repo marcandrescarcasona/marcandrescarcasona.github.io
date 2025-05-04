@@ -2,6 +2,7 @@
 title: "About Me"
 permalink: /about/
 author_profile: true
+layout: single
 classes: justify-text small-text
 ---
 
