@@ -2,6 +2,7 @@
 layout: home
 title: "Welcome"
 author_profile: true
+classes: wide justify-text small-text
 ---
 
 Welcome! I'm Dr. **Marc Andrés Carcasona**, a postdoctoral researcher in gravitational-wave astrophysics currently based at [IFAE](https://www.ifae.es/) in Barcelona.  
