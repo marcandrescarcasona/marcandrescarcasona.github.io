@@ -4,6 +4,7 @@ baseurl: ""               # keep empty for a user site
 url: "https://marcandrescarcasona.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+enable_academicons: true
 sticky_header: true
 
 plugins:
