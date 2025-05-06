@@ -16,5 +16,6 @@ My work focuses on:
 
 In this webpage you can find a bit of my research as well as a bit about me:
 
-[Learn more about me](/about/){: .btn .btn--primary }
+[About me](/about/){: .btn .btn--primary }
 [CV](/cv/){: .btn .btn--primary }
+[Publications](/publications/){: .btn .btn--primary }

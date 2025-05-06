@@ -16,8 +16,16 @@ plugins:
 include:
   - about.md
   - cv.md
+  - publications.md
 
 author:
   name   : "Marc Andrés Carcasona"
   avatar : "/assets/images/profile.jpg"
   bio    : "Postdoc at IFAE"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mandres@ifae.es"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/AndresCarcasona"

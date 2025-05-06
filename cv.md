@@ -11,14 +11,15 @@ classes: wide
 - **PhD in Physics**, IFAE (2021–2025)  
   *Thesis:* *Searches for primordial black holes using gravitational waves data*  
   Member of the Virgo and Einstein Telescope collaborations.
+  Final grade: Cum Laude
 
 - **M.Sc in Financial Risk Management**, UNIR (2023–2024)  
   *Thesis:* *Sobre el efecto de modelos de volatilidad no lineales en la ecuación de Black-Scholes para la valoración de opciones (On the effect of non-linear volatility models in Black-Scholes equation for option valuation)*  
   Final grade: 9.72 / 10
 
 - **M.Sc in High Energy Physics, Astrophysics & Cosmology**, UAB (2020–2021)  
-  Specialization: Astrophysics & Cosmology | GPA: 3.62  
   *Thesis:* *Searches of gravitational waves from asymmetric compact binary coalescence events using CNNs*
+  Final grade: 8.60 / 10
 
 - **B.Sc in Economics**, UOC (2017–2023)  
   *Thesis:* *On the usage of option contracts to maximize revenues under value investing axioms*
@@ -56,13 +57,13 @@ classes: wide
 **Associate Professor:**
 
 - *EADA Business School* (Jan. 2024 – Present)  
-  Courses:
+  Master level courses:
   - Business Analytics for Fintech  
   - Data Analytics in Sustainability  
   - Quantitative Finance with Python
 
 - *Toulouse Business School – TBS* (Nov. 2024 – Present)  
-  Courses:
+  Master level courses:
   - Introduction to AI for Finance  
   - Advanced AI for Finance with Python
 
